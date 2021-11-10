@@ -1,4 +1,6 @@
 <template>
+    <img src="https://trackmania.io/img/apple-touch-icon.png" alt="Trackmania.io" />
+    <!--
 	<svg width="100%" height="100%" viewBox="0 0 5216 927" fill="none" xmlns="http://www.w3.org/2000/svg">
 		<g clip-path="url(#clip0)">
 			<path
@@ -30,4 +32,5 @@
 			</clipPath>
 		</defs>
 	</svg>
+    -->
 </template>
