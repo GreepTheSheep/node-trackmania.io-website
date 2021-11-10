@@ -36,6 +36,7 @@ export default defineConfig({
 				start_url: '.',
 				display: 'standalone',
 				description:
+					// eslint-disable-next-line prettier/prettier
 					"Trackmania.io is a powerful Node.js module that allows you to interact with the Trackmania.io API very easily. It takes a much more object-oriented approach than most other JS libraries, making your code significantly tidier and easier to comprehend.",
 				icons: [
 					{
