@@ -31,12 +31,12 @@ export default defineConfig({
 			manifest: {
 				theme_color: '#090a16',
 				background_color: '#090a16',
-				name: 'Discord.js Docs',
-				short_name: 'd.js Docs',
+				name: 'Node-Trackmania.io Docs',
+				short_name: 'node-tmio Docs',
 				start_url: '.',
 				display: 'standalone',
 				description:
-					"Discord.js is a powerful Node.js module that allows you to interact with the Discord API very easily. It takes a much more object-oriented approach than most other JS Discord libraries, making your bot's code significantly tidier and easier to comprehend.",
+					"Trackmania.io is a powerful Node.js module that allows you to interact with the Trackmania.io API very easily. It takes a much more object-oriented approach than most other JS libraries, making your code significantly tidier and easier to comprehend.",
 				icons: [
 					{
 						src: '/android-chrome-192x192.png',

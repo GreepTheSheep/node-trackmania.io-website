@@ -20,22 +20,21 @@
 	>
 		<div class="col-span-full">
 			<h2>About</h2>
-			<h3>Imagine a bot</h3>
 			<p>
-				discord.js is a powerful
+				node-trackmania.io is a powerful
 				<a href="https://nodejs.org" target="_blank" rel="noopener"
 					>Node.js <heroicons-outline-external-link class="h-5 w-5 inline-block mb-1" aria-hidden="true"
 				/></a>
 				module that allows you to interact with the
-				<a href="https://discord.com/developers/docs/intro" target="_blank" rel="noopener"
-					>Discord API <heroicons-outline-external-link class="h-5 w-5 inline-block mb-1" aria-hidden="true"
+				<a href="https://trackmania.io" target="_blank" rel="noopener"
+					>Trackmania.io API <heroicons-outline-external-link class="h-5 w-5 inline-block mb-1" aria-hidden="true"
 				/></a>
-				very easily. It takes a much more object-oriented approach than most other JS Discord libraries, making your
-				bot's code significantly tidier and easier to comprehend.
+				very easily. It takes a much more object-oriented approach than most other JS libraries, making your
+				code significantly tidier and easier to comprehend.
 			</p>
 			<p>
 				Usability, consistency, and performance are key focuses of discord.js, and it also has nearly 100% coverage of
-				the Discord API. It receives new Discord features shortly after they arrive in the API.
+				the API. It receives new features shortly after they arrive in the API.
 			</p>
 		</div>
 		<div>
@@ -45,7 +44,6 @@
 				<li>Speedy and efficient</li>
 				<li>Feature-rich</li>
 				<li>Flexible</li>
-				<li>100% Promise-based</li>
 			</ul>
 		</div>
 		<div>

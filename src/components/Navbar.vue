@@ -20,7 +20,7 @@
 						"
 						active-class="bg-discord-blurple-600"
 					>
-						discord.js
+						node-trackmania.io
 					</router-link>
 
 					<router-link
@@ -278,7 +278,7 @@
 								font-semibold
 							"
 							@click="isOpen = !isOpen"
-							>discord.js</router-link
+							>node-trackmania.io</router-link
 						>
 
 						<router-link
