@@ -20,7 +20,7 @@
 						"
 						active-class="bg-discord-blurple-600"
 					>
-						node-trackmania.io
+						Trackmania.io for Node
 					</router-link>
 
 					<router-link
@@ -62,27 +62,6 @@
 						rel="noopener"
 					>
 						<span class="mr-2">GitHub</span><heroicons-outline-external-link class="h-5 w-5" />
-					</a>
-
-					<a
-						href="https://discordjs.guide"
-						class="
-							text-gray-200
-							hover:bg-discord-blurple-630 hover:text-white
-							rounded-md
-							py-2
-							px-3
-							inline-flex
-							items-center
-							text-sm
-							font-semibold
-							focus:outline-none
-							focus-visible:ring-1 focus-visible:ring-white
-						"
-						target="_blank"
-						rel="noopener"
-					>
-						<span class="mr-2">Guide</span><heroicons-outline-external-link class="h-5 w-5" />
 					</a>
 				</nav>
 
@@ -278,7 +257,7 @@
 								font-semibold
 							"
 							@click="isOpen = !isOpen"
-							>node-trackmania.io</router-link
+							>Trackmania.io</router-link
 						>
 
 						<router-link
