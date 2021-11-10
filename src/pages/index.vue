@@ -33,7 +33,7 @@
 				code significantly tidier and easier to comprehend.
 			</p>
 			<p>
-				Usability, consistency, and performance are key focuses of discord.js, and it also has nearly 100% coverage of
+				Usability, consistency, and performance are key focuses of this project, and it also has nearly 100% coverage of
 				the API. It receives new features shortly after they arrive in the API.
 			</p>
 		</div>
