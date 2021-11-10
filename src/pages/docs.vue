@@ -42,11 +42,7 @@ const { Ctrl_K } = useMagicKeys({
 
 const sources = reactive({
 	[MainSource.id]: MainSource,
-	[CollectionSource.id]: CollectionSource,
 	[BuildersSource.id]: BuildersSource,
-	[VoiceSource.id]: VoiceSource,
-	[CommandoSource.id]: CommandoSource,
-	[RPCSource.id]: RPCSource,
 });
 
 const showBackToTop = ref(false);
