@@ -9,5 +9,5 @@ export default new DocsSource({
 	defaultTag: 'main',
 	branchFilter: (branch: string) =>
 		!branchBlacklist.has(branch) && !branch.startsWith('dependabot/') && !branch.startsWith('depfu/'),
-	tagFilter: (tag: string) => tag.replace(/^v/, ''),
+	// tagFilter: (tag: string) => tag.replace(/^v/, ''),
 });
