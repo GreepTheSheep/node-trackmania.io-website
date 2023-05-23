@@ -1,10 +1,10 @@
 import { createRouter, createWebHashHistory } from 'vue-router';
-import routes as generated from 'virtual:generated-pages';
+import routes from 'virtual:generated-pages';
 
 export default createRouter({
 	history: createWebHashHistory(),
 	routes: [
-		...generated,
+		...routes,
 		{
 			path: "/discord-bot",
 			name: "Discord Bot",
